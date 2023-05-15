@@ -1,0 +1,38 @@
+{
+  "benefits": [
+    {
+      "label": "Coupe homme (cheveux courts)",
+      "color": "#48BB78"
+    },
+    {
+      "label": "Coupe homme (cheveux longs)",
+      "color": "#9F7AEA"
+    },
+    {
+      "label": "Coupe + Balayage + Couleur + Shampoing + Mise en pli (cheveux longs & épais)",
+      "color": "#F56565"
+    },
+    {
+      "label": "Coupe + Balayage + Couleur + Shampoing + Mise en pli (cheveux cours & fins)",
+      "color": "#ECC94B"
+    }
+  ],
+  "collaborators": [
+    {
+      "label": "Jean-Michel",
+      "color": "#48BB78"
+    },
+    {
+      "label": "Juliette",
+      "color": "#9F7AEA"
+    },
+    {
+      "label": "Denis",
+      "color": "#F56565"
+    },
+    {
+      "label": "Thomas",
+      "color": "#ECC94B"
+    }
+  ]
+}
